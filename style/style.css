@@ -1,0 +1,22 @@
+body{
+    display: block;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20% 25% 20% 25%;
+    color: white;
+    overflow: hidden;
+}
+
+#militaryTimeClock{
+    font-size: 35px;
+    text-align: center;
+}
+
+#AmPmClock{
+    font-size: 30px;
+    text-align: center;
+}
+
+#hexColor{
+    font-size: 35px;
+    text-align: center;
+}
